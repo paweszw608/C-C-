@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\pawel\pk4\repo\lab3\szablony\szablony\source.cpp(15): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Cat.cpp
+  Szablony.vcxproj -> D:\pawel\PK4\Repo\lab3\Szablony\Debug\Szablony.exe
+  Szablony.vcxproj -> D:\pawel\PK4\Repo\lab3\Szablony\Debug\Szablony.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\pawel\pk4\repo\lab8\wyrazenia_regex\wyrazenia_regex\source.cpp(66): warning C4018: '>': signed/unsigned mismatch
+  wyrazenia_regex.vcxproj -> D:\pawel\PK4\Repo\lab8\wyrazenia_regex\Debug\wyrazenia_regex.exe
+  wyrazenia_regex.vcxproj -> D:\pawel\PK4\Repo\lab8\wyrazenia_regex\Debug\wyrazenia_regex.pdb (Partial PDB)

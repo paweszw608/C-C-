@@ -1,0 +1,36 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2316): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2335): note: see reference to function template instantiation '_OutIt std::_Copy_unchecked1<_InIt,_OutIt>(_InIt,_InIt,_OutIt,std::_General_ptr_iterator_tag)' being compiled
+          with
+          [
+              _OutIt=std::back_insert_iterator<std::vector<int,std::allocator<int>>>,
+              _InIt=std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<double>>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2344): note: see reference to function template instantiation '_OutIt std::_Copy_unchecked<_InIt,_Iter>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=std::back_insert_iterator<std::vector<int,std::allocator<int>>>,
+              _InIt=std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<double>>>,
+              _Iter=std::back_insert_iterator<std::vector<int,std::allocator<int>>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2364): note: see reference to function template instantiation '_OutIt std::_Copy_no_deprecate1<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<double>>>,_OutIt>(_InIt,_InIt,_OutIt,std::input_iterator_tag,std::_Any_tag)' being compiled
+          with
+          [
+              _OutIt=std::back_insert_iterator<std::vector<int,std::allocator<int>>>,
+              _InIt=std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<double>>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2373): note: see reference to function template instantiation '_OutIt std::_Copy_no_deprecate<_InIt,_OutIt>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=std::back_insert_iterator<std::vector<int,std::allocator<int>>>,
+              _InIt=std::_List_iterator<std::_List_val<std::_List_simple_types<double>>>
+          ]
+  d:\pawel\pk4\repo\lab5\iteratore\iteratore\source.cpp(43): note: see reference to function template instantiation '_OutIt std::copy<std::_List_iterator<std::_List_val<std::_List_simple_types<double>>>,std::back_insert_iterator<std::vector<int,std::allocator<_Ty>>>>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=std::back_insert_iterator<std::vector<int,std::allocator<int>>>,
+              _Ty=int,
+              _InIt=std::_List_iterator<std::_List_val<std::_List_simple_types<double>>>
+          ]
+  Iteratore.vcxproj -> D:\pawel\PK4\Repo\lab5\Iteratore\Debug\Iteratore.exe
+  Iteratore.vcxproj -> D:\pawel\PK4\Repo\lab5\Iteratore\Debug\Iteratore.pdb (Partial PDB)

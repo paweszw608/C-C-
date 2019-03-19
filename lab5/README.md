@@ -1,1 +1,1 @@
-Tutaj umieszczać zajęcia laboratoryjne nr 5
+Exercise connected with STL iterators

@@ -1,1 +1,1 @@
-Tutaj umieszczać zajęcia laboratoryjne nr 2
+ Excercise connected with exceptions

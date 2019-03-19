@@ -1,1 +1,1 @@
-Tutaj umieszczać zajęcia laboratoryjne nr 3
+Exercise connected with templates 

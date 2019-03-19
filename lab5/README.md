@@ -1,2 +1,1 @@
-Zadania związne z:
-Iteratory STL
+Exercise connected with STL iterators

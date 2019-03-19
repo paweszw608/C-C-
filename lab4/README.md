@@ -1,1 +1,1 @@
-Tutaj umieszczać zajęcia laboratoryjne nr 4
+Exercise connected with STL containers
